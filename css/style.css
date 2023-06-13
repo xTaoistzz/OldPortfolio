@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+body{
+    background-attachment: fixed;
+    background-image: url(https://i.pinimg.com/originals/71/9e/80/719e80760999b4c355a723224120eb07.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: "Montserrat";
+}
+.profile{
+    border: 7px solid yellow;
+    vertical-align: middle;
+    width: 30%;
+    border-radius: 50%;
+}
+p,h1,ul,table{
+    margin-top: 10px;
+    text-align: center;
+}
+
+p.text{
+    padding: 10px;
+    border-radius: 5x;
+    font-size: 2vw;
+}
+h1.heading{
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.2);
+    vertical-align: middle;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 3vw;
+}
+ul{
+    font-size: 2vw;
+}
+table{
+    width: 100%;
+    font-size: 2vw;
+}
+table,th,td{
+    border: 1px solid white;
+    padding: 10px;
+}
+header{
+    margin-top: 30px;
+    text-align: center;
+}
+section{
+    margin: 20px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: azure;
+}
+footer{
+
+}
